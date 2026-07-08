@@ -1,5 +1,5 @@
 {
-    "name": "mr_pakusaru/model-core",
+    "name": "pakusaru/model-core",
     "type": "library",
     "require": {
         "laravel/framework": "^13.0",
