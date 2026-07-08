@@ -1,0 +1,15 @@
+{
+    "name": "mr_pakusaru/model-core",
+    "type": "library",
+    "require": {
+        "laravel/framework": "^13.0",
+        "php": "^8.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ModelCore\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
