@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Core\Configuration\Sections;
+namespace ModelCore\Configuration\Sections;
 
-use App\Core\Classes\Checker;
-use App\Core\Exceptions\CheckerException;
-use App\Core\Exceptions\ConfigException;
+use ModelCore\Classes\Checker;
+use ModelCore\Exceptions\CheckerException;
+use ModelCore\Exceptions\ConfigException;
 
 final class SectionFields
 {

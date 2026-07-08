@@ -1,12 +1,12 @@
 <?php
 
-namespace App\Core\Configuration;
+namespace ModelCore\Configuration;
 
-use App\Core\Classes\Checker;
-use App\Core\Configuration\Sections\SectionCore;
-use App\Core\Configuration\Sections\SectionFields;
-use App\Core\Exceptions\CheckerException;
-use App\Core\Exceptions\ConfigException;
+use ModelCore\Classes\Checker;
+use ModelCore\Configuration\Sections\SectionCore;
+use ModelCore\Configuration\Sections\SectionFields;
+use ModelCore\Exceptions\CheckerException;
+use ModelCore\Exceptions\ConfigException;
 use Illuminate\Contracts\Container\BindingResolutionException;
 
 /**

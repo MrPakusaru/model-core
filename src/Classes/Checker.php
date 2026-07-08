@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Core\Classes;
+namespace ModelCore\Classes;
 
-use App\Core\Exceptions\CheckerException;
+use ModelCore\Exceptions\CheckerException;
 use Illuminate\Contracts\Container\BindingResolutionException;
 use Illuminate\Support\Facades\App;
 use Illuminate\Validation\Factory as Validators;

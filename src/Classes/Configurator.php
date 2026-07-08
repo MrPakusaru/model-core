@@ -1,10 +1,9 @@
 <?php
 
-namespace App\Core\Classes;
+namespace ModelCore\Classes;
 
-use App\Core\Configuration\ModelConfiguration;
-use App\Core\Exceptions\ConfigException;
-use App\Core\Model;
+use ModelCore\Configuration\ModelConfiguration;
+use ModelCore\Exceptions\ConfigException;
 use Closure;
 use Exception;
 

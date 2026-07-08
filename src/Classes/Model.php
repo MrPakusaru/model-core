@@ -1,8 +1,7 @@
 <?php
 
-namespace App\Core;
+namespace ModelCore\Classes;
 
-use App\Core\Classes\Configurator;
 use Exception;
 use Illuminate\Database\Eloquent\Model as EloquentModel;
 

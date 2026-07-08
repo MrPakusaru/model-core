@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Core\Configuration\Sections;
+namespace ModelCore\Configuration\Sections;
 
-use App\Core\Classes\Checker;
-use App\Core\Exceptions\CheckerException;
+use ModelCore\Classes\Checker;
+use ModelCore\Exceptions\CheckerException;
 
 final class SectionField
 {
